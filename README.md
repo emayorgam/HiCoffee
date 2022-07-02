@@ -1,2 +1,1 @@
-# HiCoffee
-Startup website
+TinDog Starting Files
